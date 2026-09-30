@@ -10,39 +10,40 @@
 
 > El problema en una sola frase, sin mencionar blockchain.
 
-Facilitadoras expertas en comunidad de mujeres en tech no pueden ser verificadas de forma confiable, lo que limita su acceso a clientes y genera fricción en los pagos.
+WomenIT tiene mujeres con conocimiento, experiencia e interés en ofrecer charlas, mentorías y servicios profesionales, pero no cuenta con una forma estructurada de saber quién puede atender una solicitud concreta, comprobar su experiencia y conectarla con la oportunidad.
 
 ## ¿Quién lo sufre?
 
 > Quién tiene el problema y en qué situación lo vive.
 
-Facilitadoras (especialistas en data, ciberseguridad, IA) en comunidades como WomenIT que quieren ofrecer servicios freelance o talleres a empresas, pero sin una forma verificable de demostrar su expertise.
+Mujeres expertas, facilitadoras, mentoras y freelancers de la comunidad. Quieren convertir su conocimiento en charlas, mentorías o servicios, pero su oferta no está registrada y es difícil de descubrir. Según la dirección de WomenIT, varias han escrito por iniciativa propia para ofrecerse como conferencistas.
 
-Empresas que necesitan contratar facilitadoras para capacitación interna pero no tienen manera de validar que la persona es realmente experta más allá de lo que dice LinkedIn.
+WomenIT, cuando una empresa, fundación o aliado pide una mujer que hable de un tema y no existe un registro de quién puede y quiere hacerlo.
 
-Plataforma de comunidad que quiere conectar facilitadoras con oportunidades pero hoy hacen ese matching de forma manual y sin registro verificable.
+Empresas y organizaciones, que necesitan elegir a una persona para una charla, capacitación o servicio y no cuentan con información estructurada y comparable sobre su experiencia.
 
 ## ¿Cómo se resuelve hoy y qué cuesta?
 
 > Cómo lo resuelven hoy las personas afectadas y qué les cuesta en dinero, tiempo o esfuerzo.
 
-Hoy las facilitadoras se validan por: recomendación boca a boca / referencias en WhatsApp de la comunidad. Perfil de LinkedIn.Envío de CV por correo (sin forma de validar credenciales)
+Hoy depende del conocimiento personal de quien coordina, de contactos, mensajes por WhatsApp, registros manuales y búsqueda caso por caso. En conversaciones internas, la dirección de WomenIT reconoce que recibe solicitudes directas para conseguir expertas sin saber todavía quién de la comunidad quiere dictar charlas ni en qué temas, y que la gestión de expertos dependía de una sola persona, lo que terminó siendo un cuello de botella.
 
-Costo de esto:
-Para facilitadora: Mucho tiempo contactando manualmente; sin portafolio centralizado; difícil conseguir nuevos clientes
-Para empresa: Riesgo alto de contratar a alguien no calificado.
-Para plataforma de comunidad: Overhead operativo (gerenciar manualmente cada match); sin escala posible
-Pagos: Se hacen por transferencia bancaria (3-5 días de demora, comisión 3-5%, requiere cuenta bancaria formal)
+El costo todavía no está cuantificado, pero se manifiesta en:
+tiempo de búsqueda y coordinación por cada solicitud;
+dependencia de pocas personas que conocen a las integrantes;
+información fragmentada sobre habilidades, experiencia y disponibilidad;
+dificultad para demostrar rápidamente la experiencia de una candidata;
+oportunidades que se demoran o se pierden porque cada una exige gestión manual.
 
 ## ¿Por qué creo que blockchain podría aportar?
 
 > Hipótesis personal, no certeza, apoyada en al menos un criterio de la Sesión 1: partes que no confían entre sí comparten un registro, histórico inalterable, o eliminar un intermediario que concentra la confianza.
 
-Blockchain permite crear un registro inmutable de credenciales (quién emitió, a quién, cuándo, en qué tema) que:
-Es verificable públicamente: Cualquiera puede escanear un QR o código y ver que "X persona es experta certificada en Data Science"
-No puede falsificarse: A diferencia de un diploma en PDF, está firmado criptográficamente
-Integra pagos directos: La misma red blockchain permite pagar a facilitadora sin intermediarios (comisión 0.5-1% vs 3-5%)
-Crea portafolio on-chain: Facilitadora acumula historial verificable de trabajos, reviews, certificaciones.
+Es una hipótesis personal, no una certeza. Me apoyo en dos criterios de la Sesión 1:
 
-Criterio blockchain: Varias partes (facilitadora, cliente, Comunidad) que no se conocen necesitan compartir un registro de "esta persona es experta en X" que sea inalterable. Eso es exactamente lo que blockchain soluciona.
-Alternativa tradicional: Base de datos centralizada en plataforma de la comunidad(pero requeriría que todas confíen en que no manipulan datos) o proceso de legalización oficial (lento, costoso, no existe para micro-credenciales).
+Varias partes que no comparten un mismo sistema necesitan confiar en un mismo registro. WomenIT podría emitir una credencial de formación o competencia; una empresa podría acreditar después que la profesional prestó un servicio; y la profesional podría presentar ambas ante un tercero sin que este dependa de la base de datos interna de WomenIT ni de que WomenIT siga operando.
+El histórico no debería poder alterarse silenciosamente. Una trayectoria profesional (formación, servicios, evidencias) gana valor si un tercero puede comprobar que no fue modificada después.
+
+No se guardarían datos personales en la cadena: solo huellas y estados que permitan verificar afirmaciones.
+
+La hipótesis debe compararse contra una solución tradicional (base de datos centralizada o credenciales firmadas digitalmente). Blockchain solo tendría sentido si resuelve una necesidad de confianza compartida, integridad histórica o portabilidad que esas alternativas no cubran suficientemente bien.
