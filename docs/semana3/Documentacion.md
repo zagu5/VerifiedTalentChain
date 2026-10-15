@@ -2,7 +2,7 @@
 
 ## 1\. Front construido
 
-**Enlace al front desplegado:**  (pendiente desplegar)
+**Enlace al front desplegado:**  (https://verified-talent-chain.vercel.app/)
 
 **Capturas:** 
 ![Búsqueda](img/buscar.png)
